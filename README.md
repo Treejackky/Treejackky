@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Treejackky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+About me
+
+💬 website low-grade.
+
+❤️ Built github for study.
+
+❤️ Sort icecream
+
+💬 Ask me about anything here
 
 <!---
 Treejackky/Treejackky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
